@@ -1,16 +1,15 @@
-### Hi there 👋
+### Anthea Wu
+來自台北，畢業於逢甲大學，喜歡團隊合作的氣氛勝過於單打獨鬥的成就。  
+目前任職於宸訊科技有限公司，擔任GIS工程師，負責API及資料維護。
 
-<!--
-**anthea-wu/anthea-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Finance >>> Web Engineer
+就讀財金系並非為了就業，而是想學習有關金融的基本知識，關於程式也是。  
+參加於逢甲大學舉辦的產業新尖兵試辦計畫，學會使用flack進行基礎的網頁製作，結訓後進入鈦坦科技，體驗過職場和興趣的差別、敏捷環境的衝擊，幸運的被如今任職的公司接納，繼續往轉職的路上邁進。
 
-Here are some ideas to get you started:
+### Agile Mindset
+**PM又要改需求了。** 這是在鈦坦幾乎不會聽到的一句話。  
+我想這就是一個 Engineer 和 Product Developer 最大的不同：身為一個產品的開發者，我們的任務不是完成客戶的需求，而是幫助客戶了解他們的需求。  
+儘管離開了敏捷的環境，在有決定權的細節上，比起說好，我更喜歡問為甚麼，因為我相信理解一個工項的核心需求，才有可能藉由我們的專業知識判斷出最合適的解決方案。  
+因此，需求改變對我來說，是一項很有趣的挑戰：審視我的設計是否具有彈性，意識到自己對於需求的想像和設計與現實的衝突，在每一次產出與迭代的過程中，透過不斷的自省，都能有所成長。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 擁抱改變，熱衷改變，就是我對敏捷的定義。

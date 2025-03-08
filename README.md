@@ -4,6 +4,7 @@
 
 - [Technical Blog](https://anthea-wu.github.io/)
 - [Reading Blog](https://anthea-wu.github.io/books)
+- [Medium (transporting)](https://medium.com/@anthea.ensui)
 
 ### 🖥️ 經歷
 <table>

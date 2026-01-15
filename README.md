@@ -1,6 +1,6 @@
 ## ❤️ Anthea Wu
-來自台北，畢業於逢甲大學，喜歡團隊合作的氣氛勝過於單打獨鬥的成就。  
-目前任職於鈦坦科技，擔任 Product Developer，負責網頁的前後端維護。
+芫荽 / 香菜  
+會一點前端和一點後端的寫扣人
 
 - [Technical Blog](https://anthea-wu.github.io/)
 - [Reading Blog](https://anthea-wu.github.io/books)

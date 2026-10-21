@@ -1,10 +1,8 @@
 ## ❤️ Anthea Wu
 芫荽 / 香菜  
-會一點前端和一點後端的寫扣人
+會一點前端和一點後端但只想躺平的寫扣人
 
-- [Technical Blog](https://anthea-wu.github.io/)
-- [Reading Blog](https://anthea-wu.github.io/books)
-- [Medium (transporting)](https://medium.com/@anthea.ensui)
+- [Blog](https://blog.anthea.day/)
 
 ### 🖥️ 經歷
 <table>
@@ -13,7 +11,11 @@
     <td>公司 / 職稱</td>
   </tr>
   <tr>
-    <td>2025-05 ~ </td>
+    <td>2026-03 ~ </td>
+    <td>緯致科技股份有限公司 / 工程師</td>
+  </tr>
+  <tr>
+    <td>2025-05 ~ 2025-12</td>
     <td>緯雲股份有限公司 / 前端工程師</td>
   </tr>
   <tr>

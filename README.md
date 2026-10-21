@@ -1,8 +1,4 @@
-## ❤️ Anthea Wu
-芫荽 / 香菜  
-會一點前端和一點後端但只想躺平的寫扣人
-
-- [Blog](https://blog.anthea.day/)
+## ❤️ Anthea Wu / 芫荽 / 香菜  
 
 ### 🖥️ 經歷
 <table>
@@ -31,3 +27,4 @@
 ### 🌟 作品
 - [2022 鐵人賽：歡迎來到 GIS 的世界！](https://ithelp.ithome.com.tw/users/20151635/ironman/5827)
 - [2025 鐵人賽：我與 AI Pair Programming](https://ithelp.ithome.com.tw/users/20151635/ironman/8593)
+- [Blog](https://blog.anthea.day/)

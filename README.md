@@ -25,6 +25,7 @@
 </table>
 
 ### 🌟 作品
+- [個人部落格 - 有隻芫荽](https://blog.anthea.day/)
+- [Book Bound 書途同歸 - 二手書交換平台](https://book-bount.net)
 - [2022 鐵人賽：歡迎來到 GIS 的世界！](https://ithelp.ithome.com.tw/users/20151635/ironman/5827)
 - [2025 鐵人賽：我與 AI Pair Programming](https://ithelp.ithome.com.tw/users/20151635/ironman/8593)
-- [Blog](https://blog.anthea.day/)
